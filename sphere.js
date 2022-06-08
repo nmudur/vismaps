@@ -1,6 +1,6 @@
-import * as THREE from 'three';
+import * as THREE from 'https://unpkg.com/three@0.141.0/build/three.module.js';
 import gsap from 'gsap'
-import { Group } from 'three';
+import { Group } from 'https://unpkg.com/three@0.141.0/build/three.module.js';
 
 // adapting from https://www.youtube.com/watch?v=vM8M4QloVL0
 
