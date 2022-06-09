@@ -1,5 +1,5 @@
-import * as THREE from 'three';
-import gsap from 'gsap'
+import * as THREE from 'https://unpkg.com/three@0.141.0/build/three.module.js';
+import gsap from 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js'
 import { Group } from 'three';
 
 // adapting from https://www.youtube.com/watch?v=vM8M4QloVL0
